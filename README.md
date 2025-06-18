@@ -7,11 +7,17 @@ El proyecto consiste de un Colab-book y 4 archivos CVS con informacion de las ve
 
 ## Ejemplos de gráficos e insights obtenidos:
 1. Ingreso total por cada tienda
-2. Ventas de cada tienda por categoría
-3. Categorias Destacadas de todas las tiendas
-4. Costes de Envío
-5. Calificaciones de Productos
-6. Vendedores Destacados a Premiar
-
+2. Ventas de cada tienda
+4. Categorias Destacadas de todas las tiendas
+5. Costes de Envío
+6. Calificaciones de Productos
+7. Vendedores Destacados
+   
+    ![Ventas](img_readme/ventasProducto.png)
+   
+   ![Calificaciones](img_readme/evoluacionesProducto.png)
+   
+   ![Vendedores](img_readme/mejoresVendedores.png)
+   
 ## Instrucciones para ejecutar el notebook.
 Debe ser ejecutado dentro de un entrono de Colab.
